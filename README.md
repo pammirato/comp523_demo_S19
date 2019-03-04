@@ -5,6 +5,8 @@ Example object detector with pytorch
 
 I recommend using `virtual_env` to install all the python stuff, maybe
 
+This uses python 3.X and pytorch 1.X
+
 Then run 
 
 `pip install -r requirements.txt`
