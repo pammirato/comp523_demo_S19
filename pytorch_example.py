@@ -71,7 +71,7 @@ class DummyNetwork(torch.nn.Module):
 
 def main():
 
-    model_parameters_filename = './model.pth'   
+    model_parameters_filename = './model_dummy.pth'   
 
     #get gpu if available, otherwise use CPU
     #uncomment second line if you want to try to use a gpu
